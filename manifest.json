@@ -1,3 +1,5 @@
 {
-  "requirements": [ "androidtvremote2==0.1.1" ]
+  "requirements": [ 
+    "androidtvremote2 @ git+https://github.com/tronikos/androidtvremote2.git@0.1.1" 
+  ]
 }
